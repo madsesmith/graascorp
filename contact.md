@@ -4,8 +4,8 @@ title: GRAAS Corp Contact
 
 # Contact Us
 
-**GRAAS Corp**
-mailing address
+**GRAAS Corp**  
+mailing address  
 Slatington, PA USA
 
 **email@graascorp.com**
