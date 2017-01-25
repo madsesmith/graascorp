@@ -1,4 +1,6 @@
-<title>GRAAS Corp Contact</title>
+<TITLE>GRAAS Corp Contact</TITLE>
+
+# Contact Us
 
 **GRAAS Corp**
 mailing address
