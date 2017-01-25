@@ -1,0 +1,18 @@
+#Site Settings
+name: GRAASCorp
+title: GRAAS Corp
+description: GRAAS Corp Website
+url: "www.graascorp.com"
+baseurl: ""
+google_analytics:
+font-awesome-include: true
+
+#build settings
+markdown: kramdown
+exclude: ["README.md"]
+
+#Material Jekyll Theme: http://alexcarpenter.github.io/material-jekyll-theme
+themeColor: 'grey' #options: purple, green, blue, orange, purple, grey
+fixedNav: 'true' # true or false
+sass:
+  style: compressed
