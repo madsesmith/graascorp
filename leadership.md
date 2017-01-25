@@ -1,4 +1,6 @@
-<TITLE>GRAAS Corp Leadership</TITLE>
+---
+title: GRAAS Corp Leadership
+---
 
 This page will talk about the leadership of GRAAS Corp.
 

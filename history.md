@@ -1,4 +1,6 @@
-<TITLE>GRAAS Corp History</TITLE>
+---
+title: GRAAS Corp History
+---
 
 # Our Company History
 

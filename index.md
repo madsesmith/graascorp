@@ -1,4 +1,6 @@
-<TITLE>GRAAS Corp</TITLE>
+---
+title: GRAAS Corp
+---
 
 This is the future homepage of GRAAS Corp.
 
