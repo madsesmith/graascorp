@@ -1,8 +1,10 @@
 ---
-title: GRAAS Corp Leadership
+title: GRaas Corp Leadership
 ---
 
-This page will talk about the leadership of GRAAS Corp.
+![GRaasCorp Logo](images/graas_banner_narrow.png)
+
+This page will talk about the leadership of GRaas Corp.
 
 we could put a group photo here
 

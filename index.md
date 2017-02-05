@@ -1,11 +1,12 @@
 ---
-title: GRAAS Corp
+title: GRaas Corp
 ---
 
-This is the future homepage of GRAAS Corp.
+![GRaasCorp Logo](images/graas_banner.png)
 
-There will be information here.
+GRaas Incorporated is based in the Lehigh Valley of Pennsylvania. We were founded in 2013 to service cell towers in the northeastern United States. We have since expanded and now complete work nationwide.
 
-And photos.
 
-And stuff.
+![photo](images/picture05_small.jpg)
+![photo](images/picture03_small.jpg)
+![photo](images/picture09_small.jpg)

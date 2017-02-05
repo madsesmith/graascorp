@@ -1,10 +1,12 @@
 ---
-title: GRAAS Corp Contact
+title: Contact GRaas Corp
 ---
 
-# Contact Us
 
-**GRAAS Corp**  
+![GRaasCorp Logo](images/graas_banner_narrow.png)
+
+
+**GRaas Incorporated**  
 54 S. Commerce  
 Suite 180  
 Bethlehem, PA 18017  
