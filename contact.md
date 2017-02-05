@@ -5,9 +5,11 @@ title: GRAAS Corp Contact
 # Contact Us
 
 **GRAAS Corp**  
-mailing address  
-Slatington, PA USA
+54 S. Commerce  
+Suite 180  
+Bethlehem, PA 18017  
 
-**email@graascorp.com**
+**info@graascorp.com**
 
-**(123) 456-7890**
+**Phone:** 610-717-4600  
+**Fax:** 866-418-2420
