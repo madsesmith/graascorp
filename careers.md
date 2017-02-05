@@ -1,17 +1,10 @@
 ---
 title: GRAAS Corp Careers
 ---
+GRaas Corp is looking for individuals who want to be part of a growing team and enjoy traveling. Our employees are eligible for medical insurance after 90 days. The positions that we currently have openings for are: 
 
-This page will talk about the careers at GRAAS Corp.
+  - Climber
+  - Ground Technician 
+  
 
-## Benefits
-benefits...
-
-## Openings
-positions available:
-
-  - position 1
-  - position 2
-  - position 3
-
-Apply now at [www.website.com](www.website.com).
+Apply now by emailing your resume to [info@graascorp.com](mailto:info@graascorp.com).
