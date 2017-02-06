@@ -19,8 +19,7 @@ GRaas Corp is always looking for individuals who want to be part of a growing te
 
 ![GRaasCorp employee at work](images/worker_01_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_02_square_small.jpg)
-![GRaasCorp employee at work](images/worker_03_square_small.jpg)  
-
+![GRaasCorp employee at work](images/worker_03_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_04_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_05_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_06_square_small.jpg)
