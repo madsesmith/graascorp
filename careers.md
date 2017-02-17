@@ -11,19 +11,10 @@ We currently have openings available for:
   - Climbers
   - Ground Technicians
 
-
-## Apply today!
-
-  1. Download and print an [application](documents/GRaasCorp_Application.pdf).
-  2. Complete and sign your application form.
-  3. Submit your application by either:
-      - Emailing it to [info@graascorp.com](mailto:info@graascorp.com)
-      - Faxing it to [866-418-2420](fax:866-418-2420)
-
-  [Contact us](contact) with any questions.
+**[Apply online](https://goo.gl/forms/o0eJA4NuJj2SrZOm2) today!**
 
 
-## Working for GRass Corp
+## Working at GRass Corp
 GRaas Corp is always looking for individuals who want to be part of a growing team and enjoy traveling. Our employees are eligible for medical insurance after 90 days. Here are some photos of our employees on the job:
 
 ![GRaasCorp employee at work](images/worker_01_square_small.jpg)

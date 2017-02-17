@@ -29,5 +29,5 @@ GRaas Corp is based in the Lehigh Valley of Pennsylvania. We were founded in 201
 ![small cell work](images/small_cell_04_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_02_square_small.jpg)
 ![line antenna work](images/line_antenna_03_square_small.jpg)
-![small cell work](images/small_cell_03_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_06_square_small.jpg)
+![small cell work](images/small_cell_03_square_small.jpg)
