@@ -15,6 +15,7 @@
   @include ff--sans-serif(500);
   @include fs--title;
   color: $c__white;
+  margin: 0;
 
   &:after {
     margin-left: .5rem;

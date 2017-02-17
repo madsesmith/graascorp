@@ -17,9 +17,9 @@ We complete a wide variety of work including:
 ![line antenna work](images/line_antenna_03_square_small.jpg)
 
 ## Tower Modifications
+![tower mod work](images/tower_mod_01_square_small.jpg)
 ![tower mod work](images/tower_mod_04_square_small.jpg)
 ![tower mod work](images/tower_mod_02_square_small.jpg)
-![tower mod work](images/tower_mod_01_square_small.jpg)
 
 ## Small Cell
 ![small cell work](images/small_cell_04_square_small.jpg)

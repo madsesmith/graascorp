@@ -11,7 +11,16 @@ We currently have openings available for:
   - Climbers
   - Ground Technicians
 
-Apply now by emailing your resume to [info@graascorp.com](mailto:info@graascorp.com).
+
+## Apply today!
+
+  1. Download and print an [application](documents/GRaasCorp_Application.pdf).
+  2. Complete and sign your application form.
+  3. Submit your application by either:
+      - Emailing it to [info@graascorp.com](mailto:info@graascorp.com)
+      - Faxing it to [866-418-2420](fax:866-418-2420)
+
+  [Contact us](contact) with any questions.
 
 
 ## Working for GRass Corp
@@ -20,6 +29,7 @@ GRaas Corp is always looking for individuals who want to be part of a growing te
 ![GRaasCorp employee at work](images/worker_01_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_02_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_03_square_small.jpg)
-![GRaasCorp employee at work](images/worker_04_square_small.jpg)
+![GRaasCorp employees at work](images/worker_04_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_05_square_small.jpg)
+![GRaasCorp employees at work](images/worker_07_square_small.jpg)
 ![GRaasCorp employee at work](images/worker_06_square_small.jpg)
