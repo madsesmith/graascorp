@@ -12,4 +12,4 @@ We currently have openings available for climbers.
 
 
 ## Working at GRass Corp
-GRaas Corp is always looking for individuals who want to be part of a growing team and enjoy traveling. Our employees are eligible for medical insurance after 90 days. 
+GRaas Corp is always looking for individuals who want to be part of a growing team and enjoy traveling. 
