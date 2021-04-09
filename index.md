@@ -6,9 +6,6 @@ title: GRaas Corp
 
 GRaas Corp is based in the Lehigh Valley of Pennsylvania. We were founded in 2013 to service cell towers in the northeastern United States. We have since expanded and now complete work nationwide.
 
-
-
-
 &nbsp;
 
 ![line antenna work](images/line_antenna_02_square_small.jpg)
