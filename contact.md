@@ -7,8 +7,8 @@ title: Contact GRaas Corp
 
 
 **GRaas Incorporated**  
-964 Marcon Blvd.
-Suite 100
+964 Marcon Blvd.  
+Suite 100. 
 Allentown, PA 18109
 
 **Email:** [info@graascorp.com](mailto:info@graascorp.com)
