@@ -4,7 +4,7 @@ title: GRaas Corp Work
 
 ![GRaasCorp Logo](images/graas_banner_narrow.png)
 
-We have completed projects for all major wireless service providers including AT&T, Verizon, T-Mobile, and Sprint. [Contact us](contact) to discuss what we can do for you.
+We have completed projects for all major wireless service providers including AT&T, Verizon, and T-Mobile. [Contact us](contact) to discuss what we can do for you.
 
 
 # Our Work
