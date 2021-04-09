@@ -15,12 +15,4 @@ We currently have openings available for:
 
 
 ## Working at GRass Corp
-GRaas Corp is always looking for individuals who want to be part of a growing team and enjoy traveling. Our employees are eligible for medical insurance after 90 days. Here are some photos of our employees on the job:
-
-![GRaasCorp employee at work](images/worker_01_square_small.jpg)
-![GRaasCorp employee at work](images/worker_02_square_small.jpg)
-![GRaasCorp employee at work](images/worker_03_square_small.jpg)
-![GRaasCorp employees at work](images/worker_04_square_small.jpg)
-![GRaasCorp employee at work](images/worker_05_square_small.jpg)
-![GRaasCorp employees at work](images/worker_07_square_small.jpg)
-![GRaasCorp employee at work](images/worker_06_square_small.jpg)
+GRaas Corp is always looking for individuals who want to be part of a growing team and enjoy traveling. Our employees are eligible for medical insurance after 90 days. 
