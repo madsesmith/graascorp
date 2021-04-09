@@ -6,10 +6,7 @@ title: GRaas Corp Careers
 
 
 ## Positions Available
-We currently have openings available for:
-
-  - Climbers
-  - Ground Technicians
+We currently have openings available for climbers.
 
 **[Apply online](https://goo.gl/forms/o0eJA4NuJj2SrZOm2) today!**
 
